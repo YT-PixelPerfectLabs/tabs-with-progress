@@ -4,7 +4,7 @@ This project demonstrates a stunning **Autoplay Tabs With Progress** using the S
 
 ## Demo
 
-[Demo](https://yt-pixelperfectlabs.github.io/tabs-with-progress/index.html)
+[Demo](https://codepen.io/PixelPerfectLabs/full/mybxzJv)
 
 ---
 
